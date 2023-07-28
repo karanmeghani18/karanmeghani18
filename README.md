@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with DOM Manipulation with JS
 - 👯 I’m looking to collaborate on Flutter and Web D!
 - 💬 Ask me about **Kubernetes Engine, Flutter & JavaScript**
-- 📫 How to reach me: omchevli@gmail.com
+- 📫 How to reach me: karanmeghani18@gmail.com
 - ⚡ Fun fact: Love learning new skillsets!
 
 <h3 align="left">Connect with me:</h3>
