@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/karan-meghani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karan-meghani" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanmeghani18i&title=Commit,Repositories" alt="karanmeghani18" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanmeghani18&title=Commit,Repositories" alt="karanmeghani18" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanmeghani18&show_icons=true&locale=en&layout=compact" alt="karanmeghani18" /></p>
 
